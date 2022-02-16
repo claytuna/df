@@ -5,3 +5,14 @@ path fail: cat,64,91,131 -> 65,91,131: Id #5806:Path Goal Seek Station:Station O
 path fail: cat,74,118,131 -> 75,119,131: Id #5807:Path Goal Seek Station:Station Owner at 72,119,131
 path fail: sea lamprey,1,38,130 -> 12,31,130: Id #5828:Path Goal Marauder Mill:Station Marauder Mill at 12,31,130
 path fail: carp,0,38,130 -> 10,35,130: Id #5831:Path Goal Marauder Mill:Station Marauder Mill at 10,35,130
+path fail: emu,0,38,130 -> 0,36,130: Id #5953:Path Goal Seek Station Flood:Station None at 0,36,130
+path fail: giant olm,106,115,119 -> 105,114,120: Id #5950:Path Goal Seek Station Flood:Station Marauder Mill at 105,114,120
+path fail: emu,0,37,130 -> 0,34,130: Id #5999:Path Goal Seek Station Flood:Station None at 0,34,130
+path fail: emu,0,38,130 -> 1,38,130: Id #6000:Path Goal Seek Station Flood:Station Owner at 1,38,130
+path fail: cat,100,82,132 -> 121,114,131: Id #5806:Path Goal Seek Station:Station Vermin Hunting at 124,114,131
+path fail: carp,0,38,130 -> 19,31,130: Id #5835:Path Goal Flee Terrain:Station Marauder Mill at 1,37,130
+path fail: carp,0,36,130 -> 19,33,130: Id #5835:Path Goal Flee Terrain:Station Marauder Mill at 1,37,130
+path fail: badger boar,1,36,130 -> 0,35,130: Id #6106:Path Goal Seek Station Flood:Station None at 0,35,130
+path fail: badger sow,1,36,130 -> 0,35,130: Id #6107:Path Goal Seek Station Flood:Station Owner at 0,35,130
+path fail: badger boar,0,38,130 -> 0,35,130: Id #6110:Path Goal Seek Station Flood:Station Owner at 0,35,130
+path fail: cat,96,117,132 -> 97,118,132: Id #5807:Path Goal Seek Station:Station Owner at 96,117,132
