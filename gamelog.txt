@@ -1,0 +1,160 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE ISLAND
+ Seed: hHz2UJ7OyJM9FHWZGFPo
+ History Seed: y0YceLEzuBzE9ySNd9sh
+ Name Seed: zeLfxzhnn5u51DUvXOeO
+ Creature Seed: P0eOD09QwgQLOSPk8WBu
+** Starting New Outpost **
+** Loading Fortress **
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey attacks the carp but He jumps away!
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey misses the carp!
+The carp slaps the sea lamprey in the tail with his tail, bruising the muscle!
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey attacks the carp but He jumps away!
+The carp slaps the sea lamprey in the tail with his tail, bruising the muscle!
+The sea lamprey slaps the carp in the tail with his tail, bruising the muscle!
+The carp misses the sea lamprey!
+The sea lamprey charges at the carp!
+The sea lamprey collides with the carp!
+The sea lamprey is knocked over!
+The sea lamprey stands up.
+The carp slaps the sea lamprey in the tail with his tail, bruising the muscle!
+The sea lamprey attacks the carp but He jumps away!
+The carp slaps the sea lamprey in the upper body with his tail, bruising the muscle!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey is no longer stunned.
+The carp misses the sea lamprey!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey misses the carp!
+The sea lamprey attacks the carp but He jumps away!
+The carp slaps the sea lamprey in the tail with his tail and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey misses the carp!
+The carp misses the sea lamprey!
+The sea lamprey bites the carp in the upper body, bruising the fat!
+The sea lamprey bites the carp in the head, bruising the fat!
+The carp slaps the sea lamprey in the upper body with his tail, bruising the muscle!
+The sea lamprey misses the carp!
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey collapses and falls to the ground from over-exertion.
+The carp slaps the sea lamprey in the tail with his tail, bruising the muscle!
+The sea lamprey stands up.
+The carp slaps the sea lamprey in the upper body with his tail, bruising the muscle and tearing apart the right true ribs!
+The sea lamprey collapses and falls to the ground from over-exertion.
+The carp collapses and falls to the ground from over-exertion.
+The sea lamprey bites the carp in the lower body, bruising the muscle and bruising the guts!
+The carp stands up.
+The sea lamprey stands up.
+The carp slaps the sea lamprey in the upper body with his tail, bruising the fat!
+The sea lamprey attacks the carp but He jumps away!
+The carp misses the sea lamprey!
+The sea lamprey attacks the carp but He jumps away!
+The carp misses the sea lamprey!
+The sea lamprey attacks the carp but He jumps away!
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey attacks the carp but He jumps away!
+The carp misses the sea lamprey!
+The sea lamprey attacks the carp but He jumps away!
+The carp misses the sea lamprey!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey bites the carp in the right fin, lightly tapping the target!
+The carp attacks the sea lamprey but He jumps away!
+The sea lamprey attacks the carp but He jumps away!
+The sea lamprey misses the carp!
+The carp slaps the sea lamprey in the head with his tail, bruising the muscle, tearing the skull and bruising the brain!
+Mosus Rovodamud, expedition leader cancels Remove Stairs/Ramps: Inappropriate dig square.
+The weather has cleared.
+Olin ärithtomus has become a Farmer.
+Domas Mafolärith has become a Woodcutter.
+Mosus Rovodamud has become a expedition leader.
+The platypus bites the sea lamprey in the lower body, denting the skin and bruising the fat!
+The sea lamprey misses the platypus!
+The platypus attacks the sea lamprey but She jumps away!
+The sea lamprey attacks the platypus but She jumps away!
+The platypus attacks the sea lamprey but She jumps away!
+The platypus bites the sea lamprey in the lower body, denting the skin and bruising the fat!
+The sea lamprey slaps the platypus in the right front leg with her tail, but the attack glances away!
+The platypus attacks the sea lamprey but She jumps away!
+The sea lamprey misses the platypus!
+The platypus attacks the sea lamprey but She jumps away!
+The sea lamprey attacks the platypus but She jumps away!
+The sea lamprey slaps the platypus in the left rear paw with her tail, but the attack glances away!
+The sea lamprey charges at the platypus!
+The sea lamprey collides with the platypus!
+The platypus is knocked over and tumbles backward!
+The platypus stands up.
+The sea lamprey slaps the platypus in the head with her tail, bruising the fat!
+The platypus attacks the sea lamprey but She jumps away!
+Olin ärithtomus has become a Herbalist.
+Digging designation cancelled: damp stone located.
+x2
+Zulban Ellestkogan has become a Miner.
+It has started raining.
+You have struck lignite!
+The weather has cleared.
+Domas Mafolärith, Woodcutter cancels Pen/Pasture Stray Doe Rabbit (Tame): Animal inaccessible.
+It has started raining.
+Fikod Mosusudar, Cook cancels Pen/Pasture Stray Ram (Tame): Animal inaccessible.
+Domas Mafolärith, Woodcutter cancels Pen/Pasture Stray Ewe (Tame): Animal inaccessible.
+The weather has cleared.
+Olin ärithtomus, Herbalist cancels Plant Seeds: Needs plump helmet spawn.
+Dod¢k Rçtharkel, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Olin ärithtomus, Herbalist cancels Plant Seeds: Needs plump helmet spawn.
+Dod¢k Rçtharkel, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Olin ärithtomus, Herbalist cancels Plant Seeds: Needs plump helmet spawn.
+Olin ärithtomus, Herbalist cancels Construct Building: Creature occupying site.
+The dwarves suspended the construction of Still.
+Olin ärithtomus, Herbalist cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+Dod¢k Rçtharkel, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Olin ärithtomus, Herbalist cancels Plant Seeds: Needs plump helmet spawn.
+Aban KñbukÑs, Planter cancels Plant Seeds: Needs plump helmet spawn.
+It is now summer.
+Dod¢k Rçtharkel has become a Planter.
+It has started raining.
+The stray dog attacks the wild boar but He jumps away!
+The wild boar kicks the stray dog in the left rear leg with his right rear hoof, bruising the muscle!
+The stray dog scratches the wild boar in the upper body, tearing the fat and bruising the muscle!
+The wild boar charges at the stray dog!
+The wild boar collides with the stray dog!
+The stray dog is knocked over and tumbles backward!
+The stray dog stands up.
+The stray dog misses the wild boar!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog misses the wild boar!
+The stray dog scratches the wild boar in the right rear hoof, but the attack glances away!
+The force pulls the right rear leg!
+The wild boar misses the stray dog!
+The wild boar charges at the stray dog!
+The stray dog jumps away!
+The stray dog scratches the wild boar in the head, denting the skin and bruising the fat!
+The force pulls the neck!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog scratches the wild boar in the right tusk, but the attack glances away!
+The force bends the head!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog misses the wild boar!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog scratches the wild boar in the right front leg, denting the skin!
+The stray dog misses the wild boar!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the upper body, tearing the fat!
+The wild boar is having trouble breathing!
+The stray dog scratches the wild boar in the lower body, denting the skin and bruising the fat!
+The stray dog scratches the wild boar in the right rear leg, tearing the skin!
+The wild boar attacks the stray dog but She jumps away!
+The wild boar misses the stray dog!
+The weather has cleared.
+Some migrants have arrived.
+Olin ärithtomus has become a Farmer.
+Domas Mafolärith, Woodcutter cancels Give Food: No food available.
+Zulban Ellestkogan, Miner cancels Pen/Pasture Stray Horse (Tame): Animal inaccessible.
+Dod¢k Rçtharkel, Planter cancels Pen/Pasture Stray Horse (Tame): Animal inaccessible.
+Mosus Rovodamud, expedition leader cancels Pen/Pasture Stray Nanny Goat (Tame): Animal inaccessible.

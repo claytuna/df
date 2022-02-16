@@ -1,0 +1,7 @@
+path fail: sea lamprey,6,36,130 -> 2,35,130: Id #5828:Path Goal Marauder Mill:Station Marauder Mill at 2,35,130
+path fail: sea lamprey,2,38,130 -> 12,33,130: Id #5828:Path Goal Marauder Mill:Station Marauder Mill at 12,33,130
+path fail: sea lamprey,1,38,130 -> 21,34,130: Id #5828:Path Goal Flee Terrain:Station Marauder Mill at 9,35,130
+path fail: cat,64,91,131 -> 65,91,131: Id #5806:Path Goal Seek Station:Station Owner at 64,91,131
+path fail: cat,74,118,131 -> 75,119,131: Id #5807:Path Goal Seek Station:Station Owner at 72,119,131
+path fail: sea lamprey,1,38,130 -> 12,31,130: Id #5828:Path Goal Marauder Mill:Station Marauder Mill at 12,31,130
+path fail: carp,0,38,130 -> 10,35,130: Id #5831:Path Goal Marauder Mill:Station Marauder Mill at 10,35,130
