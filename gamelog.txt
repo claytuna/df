@@ -423,3 +423,268 @@ x3
 x4
 Dod¢k AlÜthvathez, Speardwarf is visiting.
 Fikod Mosusudar, Cook cancels Drink: Interrupted by a kea.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Oddom Bomrekzim has grown to become a Guineacock.
+It is now summer.
+A kea has stolen (-Æ-grown apple wood arrows [25]-Ø-)!
+Bâmbul Riraszas, Furnace Operator cancels Store Item in Stockpile: Dangerous terrain.
+Domas Mafolärith, militia commander cancels Store Item in Stockpile: Dangerous terrain.
+Bâmbul Riraszas, Furnace Operator cancels Store Item in Stockpile: Dangerous terrain.
+Sodel Zefongeb, Armorer cancels Store Item in Stockpile: Item inaccessible.
+Zuntår Urvadmîrul, Weaponsmith cancels Store Item in Stockpile: Dangerous terrain.
+Domas Mafolärith, militia commander cancels Store Item in Stockpile: Dangerous terrain.
+Doren Nefastkib, Stonecrafter cancels Store Item in Stockpile: Dangerous terrain.
+Sodel Rirnîlgoden, Wood Burner cancels Store Item in Stockpile: Dangerous terrain.
+It has started raining.
+óshrir Lecadoddom, Mason cancels Store Item in Stockpile: Dangerous terrain.
+Ast Cattenasrer, Axedwarf is visiting.
+Olin ärithtomus, Farmer cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+The weather has cleared.
+Busl† Apoowba, Human Lasher is visiting.
+Dod¢k Rçtharkel, expedition leader cancels Store Item in Stockpile: Dangerous terrain.
+Dod¢k Rçtharkel has become a expedition leader.
+Bâmbul Riraszas, Furnace Operator cancels Construct Traction Bench: Needs chain.
+Domas Mafolärith has created a masterpiece maple bed!
+A kea has stolen (grown chestnut arrows [25])!
+Olin ärithtomus, Farmer cancels Shear Animal: No creature.
+Olin ärithtomus, Farmer cancels Spin Thread: Needs unrotten hair/wool body part.
+Doren Nefastkib has created a masterpiece limestone earring!
+It has started raining.
+Sodel Zefongeb has become a Woodworker.
+The Stray Bull Calf (Tame) has been slaughtered.
+Domas Mafolärith has created a masterpiece maple bed!
+Atås Likotgeb, Swordsdwarf is visiting.
+Some migrants have arrived.
+The weather has cleared.
+A kea has stolen celery [5]!
+A kea has stolen strawberry plants [3]!
+Doren Nefastkib has created a masterpiece limestone crown!
+Domas Mafolärith has created a masterpiece apple wood bed!
+Zas Emaltulon, Bowyer cancels Store Item in Stockpile: Taken by mood.
+Zas Emaltulon, Bowyer has been possessed!
+Lico Cokmevus, Eagle Man Hammerman is visiting.
+A kea has stolen strawberry plants [3]!
+Fikod Mosusudar has become a Farmer.
+Ducim Kibmat has created a masterpiece menacing pear wood spike!
+Ducim Kibmat has created a masterpiece alder barrel!
+Autumn has come.
+Shorast Amkolkilrud, Woodworker has given birth to a girl.
+Shorast Amkolkilrud, Woodworker cancels Store Item in Stockpile: Seeking Infant.
+Domas Mafolärith has created a masterpiece willow table!
+The outpost liaison Kol Unibardes from Zon Sazir has arrived.
+A caravan from Zon Sazir has arrived.
+Merchants have arrived and are unloading their goods.
+An animal has grown to become a Stray Ram.
+Stray Cat (Tame) has given birth to kittens.
+Stray Ewe (Tame) has given birth to a lamb.
+Domas Mafolärith has created a masterpiece maple chair!
+An animal has grown to become a Stray Ram.
+Domas Mafolärith has created a masterpiece maple table!
+An animal has grown to become a Stray Billy Goat.
+Construct wooden Chair (5) has been completed.
+An animal has grown to become a Stray Dog.
+x2
+Construct wooden Casket (5) has been completed.
+Bâmbul Riraszas, Furnace Operator cancels Smelt galena Ore: Needs galena.
+Ducim Kibmat has created a masterpiece pear wood bed!
+Stray Ewe (Tame) has given birth to a lamb.
+An animal has grown to become a Stray Cat.
+Some migrants have arrived.
+Stray Dog (Tame) has given birth to puppies.
+An animal has grown to become a Stray Ram.
+An animal has grown to become a Stray Dog.
+Domas Mafolärith has created a masterpiece pear wood chest!
+The flying ({steel bolt}) strikes the emu in the head, tearing the muscle, chipping the skull and tearing the brain!
+A tendon in the skull has been torn!
+The emu has been knocked unconscious!
+Tobul Nokgoldumat, Weaponsmith cancels Return Kill: Could not find path.
+An animal has grown to become a Stray Cat.
+Sodel Rirnîlgoden, Wood Burner cancels Make leather Backpack: Needs tanned hide.
+Sodel Rirnîlgoden, Wood Burner cancels Make leather Waterskin: Needs tanned hide.
+Sodel Rirnîlgoden, Wood Burner cancels Construct leather Bag: Needs tanned hide.
+Sodel Rirnîlgoden, Wood Burner cancels Make leather armor: Needs tanned hide.
+x2
+Stray Dog (Tame) has given birth to puppies.
+An animal has grown to become a Stray Doe Rabbit.
+An animal has grown to become a Stray Buck Rabbit.
+Sodel Rirnîlgoden, Wood Burner cancels Make leather armor: Needs tanned hide.
+The flying ({steel bolt}) misses the badger boar!
+Stray Ewe (Tame) has given birth to a lamb.
+Sodel Rirnîlgoden, Wood Burner cancels Make leather low boot: Needs tanned hide.
+The flying ({steel bolt}) strikes the badger boar in the left front leg, chipping the bone!
+A tendon has been torn!
+Sodel Rirnîlgoden, Wood Burner cancels Make leather low boot: Needs tanned hide.
+The flying ({steel bolt}) strikes the badger boar in the head, tearing the muscle and fracturing the skull!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The badger boar falls over.
+The flying ({copper bolt}) strikes the badger sow in the lower body, tearing the muscle and tearing the guts!
+The badger sow looks sick!
+The ({copper bolt}) has lodged firmly in the wound!
+The badger sow vomits.
+The badger sow retches.
+Shorast Amkolkilrud has become a Engraver.
+The flying ({copper bolt}) strikes the badger sow in the lower body, tearing the muscle and tearing the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The badger sow falls over.
+The flying ({copper bolt}) strikes the badger sow in the lower body, tearing the muscle and tearing the guts!
+The badger sow looks sick!
+Dìbar Ikudurist, Hunter: I have improved my crossbow.  That was satisfying.
+The flying ({steel bolt}) strikes the badger boar in the upper body, tearing the muscle and tearing the liver!
+The ({steel bolt}) has lodged firmly in the wound!
+The flying ({steel bolt}) strikes the badger boar in the upper body, tearing the muscle and tearing the liver!
+The ({steel bolt}) has lodged firmly in the wound!
+The flying ({steel bolt}) strikes the badger boar in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes the badger boar in the fourth left front toe, shattering the nail!
+The force pulls the left front paw, tearing apart the fat and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+Domas Mafolärith has created a masterpiece pecan wood table!
+The flying ({steel bolt}) strikes the badger boar in the left front leg, fracturing the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the badger sow in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes the badger boar in the left front leg and the injured part is cloven asunder!
+An artery has been opened by the attack and a tendon has been torn!
+Tobul Nokgoldumat, Weaponsmith: I have improved my archery.  That was satisfying.
+The flying ({copper bolt}) strikes the badger sow in the left rear leg, chipping the bone!
+A tendon has been torn!
+Tobul Nokgoldumat, Weaponsmith: I have improved my crossbow.  That was satisfying.
+Zas Emaltulon, Bowyer cancels Strange Mood: Went insane.
+Zas Emaltulon, Bowyer has gone berserk!
+The flying ({steel bolt}) strikes the badger boar in the left rear leg, chipping the bone!
+A motor nerve has been severed and a tendon has been torn!
+The flying ({copper bolt}) strikes the badger sow in the left rear leg, fracturing the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the badger sow in the left rear paw, fracturing the bone!
+A ligament has been torn and a tendon has been torn!
+The flying ({copper bolt}) strikes the badger sow in the lower body, tearing apart the muscle and spilling her guts!
+The flying ({copper bolt}) strikes the badger sow in the lower body, tearing apart the muscle and tearing the right kidney!
+The flying ({copper bolt}) strikes the badger sow in the left rear paw and the injured part is cloven asunder!
+An artery has been opened by the attack, a sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force twists the left rear leg, tearing apart the skin!
+The flying ({copper bolt}) strikes the badger sow in the right rear leg, fracturing the bone!
+A tendon has been torn!
+Dìbar Ikudurist, Hunter: I have improved my archery.  That was satisfying.
+Doren Nefastkib has created a masterpiece limestone scepter!
+The flying ({copper bolt}) strikes the badger sow in the right front leg, chipping the bone!
+A tendon has been torn!
+Domas Mafolärith has created a masterpiece maple chair!
+The flying ({steel bolt}) strikes the badger boar in the neck, tearing the muscle and tearing the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The badger boar falls over.
+The flying ({steel bolt}) strikes the badger boar in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the pancreas!
+The ({steel bolt}) has lodged firmly in the wound!
+The flying ({steel bolt}) strikes the badger boar in the head, tearing the muscle, fracturing the skull and tearing the brain!
+A tendon in the skull has been torn!
+The badger boar has been knocked unconscious!
+The flying ({copper bolt}) strikes the badger boar in the right front leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+Construct wooden Chair (5) has been completed.
+The flying ({copper bolt}) strikes the badger boar in the right eye and the injured part is cloven asunder!
+The ({copper bolt}) has lodged firmly in the wound!
+The force twists the head, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The badger boar falls over.
+The flying ({copper bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the right kidney!
+The ({copper bolt}) has lodged firmly in the wound!
+The flying ({copper bolt}) strikes the badger boar in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The flying ({copper bolt}) strikes the badger boar in the left rear leg, chipping the bone!
+A tendon has been torn!
+An animal has become a Stray war Dog.
+The flying ({copper bolt}) strikes the badger boar in the right front leg, chipping the bone!
+Many nerves have been severed and a tendon has been torn!
+The flying ({copper bolt}) strikes the badger boar in the upper body, tearing the muscle and shattering the left true ribs!
+A tendon in the left true ribs has been torn!
+The flying ({copper bolt}) strikes the badger boar in the right rear leg, fracturing the bone!
+A tendon has been torn!
+The flying ({steel bolt}) strikes the badger boar in the right front leg, fracturing the bone!
+A tendon has been torn!
+Sodel Rirnîlgoden, Wood Burner cancels Construct leather Bag: Needs tanned hide.
+The flying ({steel bolt}) strikes the badger boar in the right rear leg and the injured part is cloven asunder!
+An artery has been opened by the attack, a sensory nerve has been severed and a tendon has been torn!
+The flying ({steel bolt}) strikes the badger boar in the left front paw, fracturing the bone!
+An artery has been opened by the attack, a ligament has been torn and a tendon has been torn!
+The force twists the left front leg, bruising the skin!
+Sodel Rirnîlgoden, Wood Burner cancels Make leather Waterskin: Needs tanned hide.
+The flying ({steel bolt}) strikes the badger boar in the right front leg and the injured part is cloven asunder!
+An artery has been opened by the attack, a sensory nerve has been severed and a tendon has been torn!
+The Stray Mule Foal (Tame) has been slaughtered.
+The flying ({steel bolt}) strikes the badger boar in the upper body, tearing the muscle and tearing the right lung!
+The badger boar is having more trouble breathing!
+The ({steel bolt}) has lodged firmly in the wound!
+Construct wooden Table (10) has been completed.
+An animal has become a Stray war Dog.
+Dìbar Ikudurist, Hunter cancels Hunt: No ammunition.
+Construct wooden Chest (10) has been completed.
+Fikod Mosusudar has become a Cook.
+An animal has become a Stray war Dog.
+The flying ({steel bolt}) misses the badger sow!
+The flying {+cow bone bolt+} strikes the badger sow in the right rear leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+Stukos Kolothlest, manager cancels Eat: Job item lost or destroyed.
+The badger sow jumps away from The flying {+cow bone bolt+}!
+An animal has become a Stray war Dog.
+x2
+x3
+Stray Nanny Goat (Tame) has given birth to a goat kid.
+An animal has become a Stray war Dog.
+Tobul Nokgoldumat, Weaponsmith cancels Hunt: No ammunition.
+The badger sow jumps away from The flying {+cow bone bolt+}!
+The flying {+cow bone bolt+} strikes the badger sow in the right front leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The badger sow collapses and falls to the ground from over-exertion.
+The badger sow stands up.
+The flying {cow bone bolt} strikes the badger sow in the right front leg, tearing the muscle!
+The flying {cow bone bolt} strikes the badger sow in the left front leg, tearing the muscle!
+The badger sow falls over.
+The flying {cow bone bolt} strikes the badger sow in the lower body, tearing the muscle and bruising the guts!
+The badger sow looks sick!
+The badger sow vomits.
+The badger sow retches.
+The flying {cow bone bolt} strikes the badger sow in the left rear leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The badger sow vomits.
+The badger sow retches.
+The flying {-cow bone bolt-} strikes the badger sow in the upper body, tearing the muscle and tearing the heart!
+A major artery in the heart has been opened by the attack!
+The badger sow vomits.
+The badger sow retches.
+The flying {-cow bone bolt-} strikes the badger sow in the lower body, tearing the muscle and tearing the guts!
+The badger sow looks even more sick!
+The badger sow retches.
+The flying {-cow bone bolt-} strikes the badger sow in the lower body, tearing the muscle and bruising the right kidney!
+The flying {-cow bone bolt-} strikes the badger sow in the right rear leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+Dìbar Ikudurist, Hunter cancels Hunt: No ammunition.
+Dìbar Ikudurist, Hunter: I must withdraw!
+Doren Nefastkib has created a masterpiece limestone mug!
+The merchants from Zon Sazir will be leaving soon.
+Doren Nefastkib has created a masterpiece limestone mug!
+The merchants from Zon Sazir have embarked on their journey.
+Doren Nefastkib has created a masterpiece limestone ring!
+Doren Nefastkib has created a masterpiece limestone mug!
+Stray Doe Rabbit (Tame) has given birth to bunnies.
+Kel Zatamoddom has created a masterpiece maple bin!
+Olin ärithtomus, Farmer cancels Milk Animal: No creature.
+Olin ärithtomus, Farmer cancels Make Cheese: Needs unrotten milk item.
+Doren Nefastkib has created a masterpiece limestone mug!
+x2
+Dod¢k Rçtharkel has become a expedition leader.
+Doren Nefastkib has created a masterpiece limestone amulet!
+Kib ìsedcerol, Swordsdwarf is visiting.
+Olin ärithtomus, Farmer cancels Shear Animal: No creature.
+The stonecrafter's right lower arm takes the full force of the impact, but it is deflected by the stonecrafter's (pig tail cloak)!
+The stonecrafter stands up.
+The stonecrafter is no longer stunned.
+An animal has grown to become a Stray Water Buffalo Cow.
+Digging designation cancelled: damp stone located.
+You have struck galena!
+You have struck harlequin opal!
