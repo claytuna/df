@@ -23,3 +23,20 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 path fail: dwarf,Return Kill,7,42,131 -> 3,39,136: Id #6280:Path Goal Grab Kill:Station Mill Building at 97,97,125
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Receive job pay: NULL JOB
+path fail: dog,101,86,131 -> 102,86,131: Id #6307:Path Goal Seek Station:Station Owner at 100,85,131
+path fail: badger sow,2,38,130 -> 1,34,130: Id #6492:Path Goal Owner:Station Owner at 1,34,130
+path fail: badger boar,0,35,130 -> 2,36,130: Id #6496:Path Goal Owner:Station Owner at 2,36,130
+path fail: badger boar,1,37,130 -> 0,35,130: Id #6486:Path Goal Owner:Station Owner at 0,35,130
+path fail: badger boar,0,34,130 -> 0,35,130: Id #6487:Path Goal Seek Station Flood:Station Owner at 0,35,130
+path fail: badger sow,2,37,130 -> 0,34,130: Id #6488:Path Goal Owner:Station Owner at 0,34,130
+path fail: badger sow,0,35,130 -> 1,36,130: Id #6488:Path Goal Seek Station Flood:Station Owner at 1,36,130
+path fail: badger boar,1,38,130 -> 2,36,130: Id #6489:Path Goal Owner:Station None at 0,37,130
